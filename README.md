@@ -75,5 +75,5 @@ Includes preprocessing, model training, and performance comparison across multip
 ## 📫 Contact
 
 - GitHub: [@diegojgarciacallejas](https://github.com/diegojgarciacallejas)
-- LinkedIn: [Diego José García Callejas](www.linkedin.com/in/diegojosegarciacallejas)
+- LinkedIn: [Diego José García Callejas](https://www.linkedin.com/in/diegojosegarciacallejas)
 - Email: [d.j.garciacallejas@gmail.com](mailto:d.j.garciacallejas@gmail.com)
