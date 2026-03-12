@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Diego José García Callejas
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Portfolio-orange)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Student-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-orange)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Student-green)
 
-**Data Science and Artificial Intelligence student** passionate about building practical machine learning solutions, applying intelligent algorithms, and developing data-driven projects with real-world applications.
+**Data Science and Artificial Intelligence student** passionate about applying machine learning, intelligent algorithms, and data science techniques to real-world problems through practical and data-driven solutions.
 
-Currently focused on improving my skills in **machine learning, artificial intelligence, data analysis, and algorithm design**.
+Currently focused on strengthening my skills in **machine learning, artificial intelligence, data analysis, and algorithm design**, while exploring tools, methodologies, and technologies that improve performance, efficiency, and decision-making in real applications.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Data Science and Artificial Intelligence student
-- 🤖 Interested in **Machine Learning, Artificial Intelligence, Search Algorithms, and Data Analysis**
-- 📊 Building academic and portfolio projects in **Python**
-- 🧠 Exploring real-world applications of **ML models, graph algorithms, and heuristic search**
+- 🛠️ Learning and working with tools, technologies, and methodologies related to data science and artificial intelligence
+- 🌍 Interested in applying technical knowledge to practical and real-world problems
+- 📈 Building projects that strengthen my analytical, programming, and problem-solving skills
 - 📚 Continuously learning and improving through university projects and personal practice
 
 ---
@@ -25,21 +25,32 @@ Currently focused on improving my skills in **machine learning, artificial intel
 ### Languages
 - Python
 - SQL
-- R *(basic)*
+- R 
 
-### Data Science & Machine Learning
+### Libraries & Frameworks
 - Pandas
 - NumPy
+- Polars
 - Scikit-learn
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+- Matplotlib / Seaborn
 
-### Algorithms & Development
-- NetworkX
-- Tkinter
-- CustomTkinter
+### Tools & Platforms
 - Git & GitHub
+- Jupyter Notebook
+- Google Colab
+- Visual Studio Code
+- Docker
+- AWS *(basic)*
+
+### Data & AI Skills
+- Exploratory Data Analysis (EDA)
+- Data preprocessing
+- Visual data analysis
+- ETL workflows
+- API integration and development with Python
+- Web scraping
+- Machine learning fundamentals and workflows
+- Basic microservices concepts
 
 ---
 
@@ -61,17 +72,9 @@ Includes preprocessing, model training, and performance comparison across multip
 
 ---
 
-## 📚 Currently Learning
-
-- Supervised and unsupervised machine learning
-- Model evaluation and feature engineering
-- Artificial intelligence algorithms
-- Data visualization and exploratory data analysis
-- Real-world project structuring for GitHub portfolio
-
----
 
 ## 📫 Contact
 
 - GitHub: [@diegojgarciacallejas](https://github.com/diegojgarciacallejas)
-- LinkedIn: *(add your LinkedIn here when ready)*
+- LinkedIn: [Diego José García Callejas](www.linkedin.com/in/diegojosegarciacallejas)
+- Email: [d.j.garciacallejas@gmail.com](mailto:d.j.garciacallejas@gmail.com)
