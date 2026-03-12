@@ -72,7 +72,6 @@ Includes preprocessing, model training, and performance comparison across multip
 
 ---
 
-
 ## 📫 Contact
 
 - GitHub: [@diegojgarciacallejas](https://github.com/diegojgarciacallejas)
