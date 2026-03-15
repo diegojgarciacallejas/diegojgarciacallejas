@@ -71,6 +71,19 @@ Includes preprocessing, model training, and performance comparison across multip
 🔗 [View Repository](https://github.com/diegojgarciacallejas/mlb-pitch-type-classification)
 
 ---
+### 🚗 Car Market Web Scraping Analysis
+Web scraping and exploratory analysis of used car listings from multiple automotive marketplaces across **Spain, France, Netherlands, and Germany**.  
+Includes data collection with **Selenium**, cleaning, and cross-market comparison of pricing, mileage, and registration year patterns for 6 selected brands.
+🔗 [View Repository](https://github.com/diegojgarciacallejas/car-market-web-scraping-analysis)
+
+---
+
+### 👥 Sociodemographic Clustering Analysis
+Unsupervised machine learning project applying clustering techniques to a sociodemographic dataset.  
+Evaluates **KMeans, Hierarchical Clustering, DBSCAN, and Gaussian Mixture Models** with a mixed scaling strategy, selecting **KMeans k=4** as the best approach.
+🔗 [View Repository](https://github.com/diegojgarciacallejas/sociodemographic-clustering-analysis)
+
+---
 
 ## 📫 Contact
 
