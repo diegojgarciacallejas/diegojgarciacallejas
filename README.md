@@ -30,6 +30,7 @@ I enjoy transforming academic and personal projects into clean, portfolio-ready 
 - NumPy
 - Polars
 - Scikit-learn
+- TensorFlow
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
