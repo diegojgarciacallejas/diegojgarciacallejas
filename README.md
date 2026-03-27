@@ -1,87 +1,82 @@
 # 👋 Hi, I'm Diego José García Callejas
 
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-orange)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Student-green)
+**Data Science and Artificial Intelligence student** focused on building practical projects in **machine learning, data analysis, optimization, and AI-driven problem solving**.
 
-**Data Science and Artificial Intelligence student** passionate about applying machine learning, intelligent algorithms, and data science techniques to real-world problems through practical and data-driven solutions.
-
-Currently focused on strengthening my skills in **machine learning, artificial intelligence, data analysis, and algorithm design**, while exploring tools, methodologies, and technologies that improve performance, efficiency, and decision-making in real applications.
+I enjoy transforming academic and personal projects into clean, portfolio-ready repositories that reflect both **technical skills** and **real analytical thinking**.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Data Science and Artificial Intelligence student
-- 🛠️ Learning and working with tools, technologies, and methodologies related to data science and artificial intelligence
-- 🌍 Interested in applying technical knowledge to practical and real-world problems
-- 📈 Building projects that strengthen my analytical, programming, and problem-solving skills
-- 📚 Continuously learning and improving through university projects and personal practice
+- 📊 Interested in machine learning, data analysis, optimization, and applied AI
+- 🛠️ Building practical projects with a strong focus on clean structure and real-world usability
+- 🌍 Motivated by solving real problems through data-driven and algorithmic approaches
+- 📚 Continuously improving through university projects and personal learning
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- SQL
-- R 
+### Languages & Core Tools
 
-### Libraries & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,docker,aws,vscode" />
+</p>
+
+### Data Science & AI
+
 - Pandas
 - NumPy
 - Polars
 - Scikit-learn
-- Matplotlib / Seaborn
-
-### Tools & Platforms
-- Git & GitHub
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 - Google Colab
-- Visual Studio Code
-- Docker
-- AWS *(basic)*
-
-### Data & AI Skills
-- Exploratory Data Analysis (EDA)
-- Data preprocessing
-- Visual data analysis
-- ETL workflows
-- API integration and development with Python
-- Web scraping
-- Machine learning fundamentals and workflows
-- Basic microservices concepts
 
 ---
 
-## 📌 Featured Projects
+## 📌 Core Skills
+
+- Exploratory Data Analysis (EDA)
+- Data preprocessing and transformation
+- Data visualization
+- ETL workflows
+- Web scraping with Python and Selenium
+- API integration and development with Python
+- Machine learning fundamentals and model evaluation
+- Search and optimization algorithms
+- Basic microservices and cloud concepts
+
+---
+
+## 📂 Featured Projects
 
 ### 🚇 Buenos Aires Subway Route Optimizer
-Graphical application that computes optimal routes between selected Buenos Aires subway stations using the **A\*** search algorithm.  
-It models a subset of the subway network as a weighted graph and considers distance, transfers, schedules, and train frequency.
-
+Graph-based route optimization project that computes optimal subway paths using the **A\*** search algorithm, considering distance, transfers, schedules, and train frequency.  
 🔗 [View Repository](https://github.com/diegojgarciacallejas/buenos-aires-subway-route-optimizer)
 
----
-
 ### ⚾ MLB Pitch Type Classification
-Supervised machine learning project for classifying MLB pitch types using **Statcast postseason pitch-by-pitch data**.  
-Includes preprocessing, model training, and performance comparison across multiple classifiers such as **KNN, Logistic Regression, Decision Trees, and SVM**.
-
+Supervised machine learning project for classifying MLB pitch types using **Statcast postseason pitch-by-pitch data**, including preprocessing, model training, and model comparison across multiple classifiers.  
 🔗 [View Repository](https://github.com/diegojgarciacallejas/mlb-pitch-type-classification)
 
----
 ### 🚗 Car Market Web Scraping Analysis
-Web scraping and exploratory analysis of used car listings from multiple automotive marketplaces across **Spain, France, Netherlands, and Germany**.  
-Includes data collection with **Selenium**, cleaning, and cross-market comparison of pricing, mileage, and registration year patterns for 6 selected brands.
+Web scraping and exploratory analysis of used car listings from automotive marketplaces across **Spain, France, the Netherlands, and Germany**, including **Selenium-based data collection**, cleaning, and cross-country comparison.  
 🔗 [View Repository](https://github.com/diegojgarciacallejas/car-market-web-scraping-analysis)
 
+### 👥 Sociodemographic Clustering Analysis
+Unsupervised learning project applying multiple clustering techniques (**KMeans, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models**) to identify patterns in sociodemographic data.  
+🔗 [View Repository](https://github.com/diegojgarciacallejas/sociodemographic-clustering-analysis)
+
 ---
 
-### 👥 Sociodemographic Clustering Analysis
-Unsupervised machine learning project applying clustering techniques to a sociodemographic dataset.  
-Evaluates **KMeans, Hierarchical Clustering, DBSCAN, and Gaussian Mixture Models** with a mixed scaling strategy, selecting **KMeans k=4** as the best approach.
-🔗 [View Repository](https://github.com/diegojgarciacallejas/sociodemographic-clustering-analysis)
+## 🌱 Currently Learning
+
+- Advanced machine learning workflows
+- Data engineering fundamentals
+- Cloud and infrastructure concepts for data applications
+- Better project architecture for portfolio-ready repositories
 
 ---
 
